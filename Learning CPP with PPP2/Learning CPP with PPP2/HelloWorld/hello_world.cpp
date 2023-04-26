@@ -2,7 +2,7 @@
 
 int main()
 {
-	cout << "Hello, World!\n";
-	keep_window_open();
-	return 0;
+    cout << "Hello, World!\n";
+    keep_window_open();
+    return 0;
 }
