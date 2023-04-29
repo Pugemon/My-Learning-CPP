@@ -1,0 +1,9 @@
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/Experimental.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/Nightly.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/Continuous.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/SFMLEngine.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/PACKAGE.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pugemon/Projects/CPP/MyLearningCPP/SFMLEngine/build/CMakeFiles/ZERO_CHECK.dir
